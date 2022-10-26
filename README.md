@@ -14,8 +14,8 @@ N/A
 
 ## Usage
 
+You can test the new version of the website by downloading one of the available web accessibility tools
 
- 
 ## Credits
 
 N/A
